@@ -4,7 +4,7 @@ Para liberar o seu powershell para rodar Scripts você deve fazer o seguinte:
 
 1) Clique <kbd>Windows</kbd> + <kbd>X</kbd> para acessar todas as opções de administrador
 
-<img src="../Images/admins.png">
+<img src="Images/admins.png">
 
 2) Clique em **Windows Powershell (Admin)**
 3) Coloque o seguinte comando no Powershell:
