@@ -1,2 +1,0 @@
-Write-Host "Emoji de Check"
-Write-Host "$([char]::ConvertFromUtf32(0x2705)) OK"
