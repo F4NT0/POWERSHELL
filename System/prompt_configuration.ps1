@@ -3,6 +3,8 @@
     DEVE SER COLOCADO NO ARQUIVO Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 #>
 
+
+
 function prompt{
     $p = Split-path -leaf -path (Get-Location)
     $promptString = "$([char]::ConvertFromUtf32(0x1F451))" + " $p "
