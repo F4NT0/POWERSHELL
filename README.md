@@ -31,3 +31,6 @@ Nome do Script|Diretório|Para que serve
 *running_programs.ps1*|System|Verifica quais programas estão rodando no momento
 *get_disk_info.ps1*|System|Verifica as informações do HD e SSD do computador
 *computer_info.ps1*|System|Mostra todas as informações sobre o computador
+
+
+

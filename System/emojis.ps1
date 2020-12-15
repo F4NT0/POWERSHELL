@@ -15,5 +15,6 @@ Write-Host "--------------------"
 [char]::ConvertFromUtf32(0x1F44D)
 [char]::ConvertFromUtf32(0x1F44E)
 [char]::ConvertFromUtf32(0x1F451)
+[char]::ConvertFromUtf32(0x2694)
 
 
